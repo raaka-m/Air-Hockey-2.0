@@ -1,6 +1,3 @@
-# Name: Raaka Mukhopadhyay
-# Andrew ID: rmukhopa
-
 import module_manager
 module_manager.review()
 
