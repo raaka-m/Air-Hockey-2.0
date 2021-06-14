@@ -5,8 +5,4 @@ Description: The most basic description of the game is two opponents trying to s
 
 How to run the project: Run as normal (note: there is an image file that is included in the zipped file necessary to run the game)
 
-
-Libraries: None
-
-
-Shortcut commands: None
+Follow the link in the demo video to see how the game works
